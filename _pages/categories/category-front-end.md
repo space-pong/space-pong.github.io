@@ -1,9 +1,9 @@
 ---
-title: "프론트엔드"
+title: "front-end"
 layout: category
 permalink: /categories/front-end/
 author_profile: true
-taxonomy: 프론트엔드
+taxonomy: front-end
 sidebar:
   nav: "categories"
 ---

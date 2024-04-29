@@ -1,9 +1,9 @@
 ---
-title: "보안"
+title: "security"
 layout: category
 permalink: /categories/security/
 author_profile: true
-taxonomy: 보안
+taxonomy: security
 sidebar:
   nav: "categories"
 ---

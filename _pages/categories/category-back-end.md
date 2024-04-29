@@ -1,9 +1,9 @@
 ---
-title: "백앤드"
+title: "back-end"
 layout: category
 permalink: /categories/back-end/
 author_profile: true
-taxonomy: 백앤드
+taxonomy: back-end
 sidebar:
   nav: "categories"
 ---

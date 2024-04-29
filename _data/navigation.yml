@@ -22,7 +22,6 @@ categories:
     url: /space-pong-project/
   - title: "요구사항"
     url: /requirement/
-    stype: "bold"
   - title: "설계"
     url: /architecture/
   - title: "프론트엔드"

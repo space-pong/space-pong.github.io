@@ -1,9 +1,9 @@
 ---
-title: "데브옵스"
+title: "devops"
 layout: category
 permalink: /categories/devops/
 author_profile: true
-taxonomy: 데브옵스
+taxonomy: devops
 sidebar:
   nav: "categories"
 ---
