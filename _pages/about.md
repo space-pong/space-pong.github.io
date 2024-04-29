@@ -3,6 +3,8 @@ title: "about"
 permalink: /about/
 layout: single
 comments: false
+sidebar:
+  nav: "categories"
 ---
 
 # 팀

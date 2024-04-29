@@ -3,6 +3,8 @@ title: "요구사항"
 permalink: /requirement/
 layout: single
 comments: false
+sidebar:
+  nav: "categories"
 ---
 
 # 요구사항
