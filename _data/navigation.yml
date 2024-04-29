@@ -18,8 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "C"
-    url: /categories/c/
+  - title: "Space Pong 프로젝트"
+    url: /space-pong-project/
   - title: "C++"
     url: /categories/cpp/
   - title: "SIMD"
