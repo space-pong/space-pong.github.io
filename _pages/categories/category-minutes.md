@@ -1,5 +1,5 @@
 ---
-title: "회의록"
+title: "minutes"
 layout: category
 permalink: /categories/minutes/
 author_profile: true
