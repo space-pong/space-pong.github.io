@@ -20,11 +20,10 @@ main:
 categories:
   - title: "Space Pong 프로젝트"
     url: /space-pong-project/
-  - title: "C++"
-    url: /categories/cpp/
-  - title: "SIMD"
-    url: /categories/simd/
-  - title: "Project"
-    url: /categories/project/
-  - title: "Hobby"
-    url: /categories/hobby/
+  - title: "요구사항"
+    url: /requirement/
+  - title: "설계"
+    url: /architecture/
+  - title: "프론트엔드"
+    url: /categories/front-end/
+
