@@ -3,6 +3,7 @@ title: "요구사항"
 permalink: /requirement/
 layout: single
 comments: false
+author_profile: true
 sidebar:
   nav: "categories"
 ---
