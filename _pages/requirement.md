@@ -6,8 +6,6 @@ comments: false
 author_profile: true
 sidebar:
   nav: "categories"
-toc: true
-toc_sticky: true
 ---
 
 ## ft_transcendence
