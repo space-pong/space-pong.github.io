@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://jeekpark.github.io/
+    url: https://space-pong.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/jeekpark
+    url: https://github.com/space-pong
 
   # - title: "Projects"
   #   url: /projects/
