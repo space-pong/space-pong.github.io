@@ -22,10 +22,17 @@ categories:
     url: /space-pong-project/
   - title: "요구사항"
     url: /requirement/
+    stype: "bold"
   - title: "설계"
     url: /architecture/
   - title: "프론트엔드"
     url: /categories/front-end/
+  - title: "백엔드"
+    url: /categories/back-end/
+  - title: "데브옵스"
+    url: /categories/devops/
+  - title: "보안"
+    url: /categories/security/
   - title: "회의록"
     url: /categories/minutes/
 
