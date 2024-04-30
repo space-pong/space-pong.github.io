@@ -1,5 +1,5 @@
 ---
-title: "Space Pong 프로젝트"
+title: "SPACE PONG 프로젝트"
 permalink: /space-pong-project/
 layout: single
 comments: false
@@ -8,6 +8,4 @@ sidebar:
   nav: "categories"
 ---
 
-# Space Pong 프로젝트
-
-test test test.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Signed_Pong_Cabinet.jpg/1280px-Signed_Pong_Cabinet.jpg" width="50%">

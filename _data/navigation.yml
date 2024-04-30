@@ -18,7 +18,7 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Space Pong 프로젝트"
+  - title: "SPACE PONG 프로젝트"
     url: /space-pong-project/
   - title: "요구사항"
     url: /requirement/
