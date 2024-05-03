@@ -16,4 +16,4 @@ sidebar:
 |[남태일(tnam)](https://github.com/Taeil-Nam)| |
 |[민동환(dmin)](https://github.com/Thomamin)| |
 |[박지건(jeekpark)](https://github.com/jeekpark)|  |
-|[오은주(eoh)](https://github.com/Eonjoo-Oh)| |
+|[오언주(eoh)](https://github.com/Eonjoo-Oh)| |
