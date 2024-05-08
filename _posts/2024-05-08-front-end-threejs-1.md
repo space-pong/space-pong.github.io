@@ -83,28 +83,37 @@ animate();
 
 ```html
 <canvas id="art"></canvas>
+
 ```
 
 2. 캔버스 연결
 main.js 코드에서 ```document.getElementById()```함수를 이용해, 위에서 정의한 캔버스 요소를 가져온다. 
+
 ```js
 const canvas = document.getElementById('art');
+
 ```
+
 이 요소를 Three.js의 씬과 연결하기 위해 ```WebGLRenderer```를 생성하며 인자로 전달한다.
+
 ```js
 const renderer = new THREE.WebGLRenderer({ canvas });
+
 ```
 
 3. 씬, 카메라, 메쉬 기타 요소 생성
 표현하고자 하는 씬을 위해 다양한 요소를 생성한다.
+
 ```js
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, canvas.width / canvas.height, 0.1, 1000);
 // ... 기타 요소 생성 및 구성 코드 ...
+
 ```
 
 4. 애니메이션 루프 설정
 ```requestAnimationFrame()```함수를 이용해 애니메이션 루프를 설정한다.
+
 ```js
 function animate() {
   requestAnimationFrame(animate);
@@ -115,6 +124,7 @@ function animate() {
 }
 
 animate();
+
 ```
 
 
