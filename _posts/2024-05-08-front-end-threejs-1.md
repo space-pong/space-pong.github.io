@@ -1,5 +1,5 @@
 ---
-title: "Three.js는 어떻게 HTML과 상호작용할까?"
+title: "[Three.js] Three.js는 어떻게 HTML과 상호작용할까?"
 excerpt: "HTML이 JS를 쓰는 이유와 HTML DOM 개념"
 
 categories:
@@ -17,7 +17,7 @@ last_modified_at: 2024-05-08
 # 우선 간단한 예제
 
 index.html
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="ko">
 <head>
