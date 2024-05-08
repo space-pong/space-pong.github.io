@@ -1,17 +1,17 @@
 ---
-title: "Three.js: Three.js는 어떻게 HTML과 상호작용할까?"
+title: "Three.js는 어떻게 HTML과 상호작용할까?"
 excerpt: "HTML이 JS를 쓰는 이유와 HTML DOM 개념"
 
 categories:
   - 프론트엔드
 
-permalink: /categories/front-end/guide-2/
+permalink: /categories/front-end/threejs-1/
 
 toc: true
 toc_sticky: true
 
-date: 2024-05-09
-last_modified_at: 2024-05-09
+date: 2024-05-08
+last_modified_at: 2024-05-08
 ---
 
 # 우선 간단한 예제
