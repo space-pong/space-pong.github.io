@@ -1,6 +1,6 @@
 ---
 title: "[Three.js] Three.js는 어떻게 HTML과 상호작용할까?"
-excerpt: "HTML이 JS를 쓰는 이유와 HTML DOM 개념"
+excerpt: "HTML은 자바스크립트가 필요할까?"
 
 categories:
   - 프론트엔드
