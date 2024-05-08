@@ -17,6 +17,7 @@ last_modified_at: 2024-05-08
 # 우선 간단한 예제
 
 index.html
+
 ```html
 <!DOCTYPE html>
 <html lang="ko">
@@ -79,6 +80,7 @@ animate();
 우선 간단히 과정을 설명하자면 다음과 같다. 
 1. HTML 캔버스 정의:
 먼저 HTML 문서에, ```canvas```요소를 정의하고 원하는 식별자(id)를 지정한다.
+
 ```html
 <canvas id="art"></canvas>
 ```
