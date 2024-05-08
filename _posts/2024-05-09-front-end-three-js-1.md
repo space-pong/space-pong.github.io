@@ -5,7 +5,7 @@ excerpt: "HTML이 JS를 쓰는 이유와 HTML DOM 개념"
 categories:
   - 프론트엔드
 
-permalink: /categories/front-end/three-js-1/
+permalink: /categories/front-end/guide-2/
 
 toc: true
 toc_sticky: true
