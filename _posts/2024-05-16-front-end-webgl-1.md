@@ -1,6 +1,6 @@
 ---
-title: "WebGL은 어떻게 작동될까?"
-excerpt: "~~"
+title: "WebGL은 왜 등장했을까?"
+excerpt: "WebGL의 역사와 한계"
 
 categories:
   - 프론트엔드
