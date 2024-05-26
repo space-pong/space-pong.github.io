@@ -10,8 +10,8 @@ permalink: /categories/front-end/remote-1/
 toc: true
 toc_sticky: true
 
-date: 2024-05-27
-last_modified_at: 2024-05-27
+date: 2024-05-26
+last_modified_at: 2024-05-26
 ---
 
 작성자: jeekpark
